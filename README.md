@@ -225,7 +225,6 @@ This project demonstrates an end-to-end **AI Data Analyst workflow**:
 **Data → Analysis → Machine Learning → Prediction → Risk Segmentation → Automation → Business Dashboard**
 
 It combines technical data analysis with business-focused reporting to support customer retention analysis.
-## 📈 Power BI Dashboard
 ## 📸 Dashboard Preview
 
 ### Page 1 — Customer Churn Overview
