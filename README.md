@@ -226,16 +226,9 @@ This project demonstrates an end-to-end **AI Data Analyst workflow**:
 
 It combines technical data analysis with business-focused reporting to support customer retention analysis.
 ## 📸 Dashboard Preview
-
-### Page 1 — Customer Churn Overview
-
 ![Page 1 — Customer Churn Overview](dashboard/page1_churn_overview.png)
 
-### Page 2 — Customer Risk & Retention
-
 ![Page 2 — Customer Risk & Retention](dashboard/page2_customer_churn.png)
-
-### Page 3 — AI-Powered Customer Churn Prediction
 
 ![Page 3 — AI-Powered Customer Churn Prediction](dashboard/page3_ai_prediction.png)
 
